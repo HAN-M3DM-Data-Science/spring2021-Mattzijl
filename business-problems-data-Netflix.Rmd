@@ -1,0 +1,44 @@
+---
+title: "Assigment - Data Driven Decision Making - Netflix"
+author: Matthys Zijlstra
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false 
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sAQmj8a_aI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Netflix is a data driven company. Data enables Netflix to find out what exactly a user wants. in fact, Netflix is so good at targeted content promotion that an estimated 80 percent of content streamed on its platform is influenced by its recommendation system. by utilizing data, Netflix’s revenue has grown from 1.36 billion to around 15.8 billion in just ten years. The number of Netflix subscribers has followed a similar trend, growing from less than 22 million in 2011 to nearly 150 million in 2019.
+
+## How did the organization apply 3DM?
+
+ By collecting data from their 151 million subscribers, and implementing data analytics models to discover customer behaviour and buying patterns. Then, using that information to recommend movies and TV shows based on their subscribers’ preferences.
+
+According to Netflix, over 75% of viewer activity is based off personalised recommendations. Netflix collects several data points to create a detailed profile on its subscribers. The profile is far more detailed than the personas created through conventional marketing.
+
+Most significantly, Netflix collects customer interaction and response data to a TV show. For example, Netflix knows the time and date a user watched a show, the device used, if the show was paused, does the viewer resume watching after pausing? Do people finish an entire TV show or not, how long does it take for a user to finish a show and so on.
+
+Netflix even has screenshots of scenes people might have viewed repeatedly, the rating content is given, the number of searches and what is searched for. With this data, Netflix can create a detailed profile on its users. To collect all this data and harness it into meaningful information, Netflix requires data analytics. For example, Netflix uses what is known as the recommendation algorithm to suggest TV shows and movies based on user’s preferences.
+
+Netflix’s ability to collect and use the data is the reason behind their success. According to Netflix, they earn over a billion in customer retention because the recommendation system accounts for over 80% of the content streamed on the platform. Netflix also uses its big data and analytics tools to decide if they want to greenlight original content. To an outsider, it might look like Netflix is throwing their cash at whatever they can get, but in reality, they greenlight original content based on several touch points derived from their user base
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+- Give possible recommendations to watch
+- analyze customer behaviour and bying patterns
+- What device is used to use Netflix
+- User location
+- Whether content was paused
+- Watchtime
+- user preferences
+- Time of the day and week in which content was watched and how it influences the kind of content watched
+- Searches on its platform
+- Portions of content that got re-watched
+- Browsing and scrolling behavior
+- Netflix also looks at data within movies. They take various “screen shots” to look at “in the moment” characteristics. Netflix has confirmed they know when the credits start rolling; but there’s far more to it than just that. Some have figured these characteristics may be the volume, colors, and scenery that help Netflix find out what users like.
